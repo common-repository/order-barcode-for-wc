@@ -1,0 +1,24 @@
+.worder-woo{
+	display:inline-block;
+	padding: 10px;
+	margin-left: 20px; 
+}
+.prints{
+	text-align: center;
+}
+.prints .print{
+	background-color: #746564;
+	color: whitesmoke;
+	padding: 7px;
+	border-radius: 20px;
+}
+.prints .print:hover{
+	background-color: whitesmoke;
+	color: darkblue;
+	padding: 7px;
+	border-radius: 20px;
+}
+/* .fa-print:before {
+    content: "";
+    color: darkred;
+} */

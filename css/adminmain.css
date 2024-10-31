@@ -1,0 +1,6 @@
+.customs{
+	display: grid;
+	grid: 150px / auto auto;
+	background-color: whitesmoke;
+	padding: 10px;
+}
